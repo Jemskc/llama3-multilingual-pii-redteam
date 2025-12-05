@@ -1,0 +1,281 @@
+Model,Hallucinated Entity,Input Text Snippet
+Falcon3-7B-Instruct,AGE: 18 años o 17,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Falcon3-7B-Instruct,PRODUCT: libro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: metales preciosos," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: peso plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: centenerio," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: onza libertad de plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,AGE: 22 años,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Falcon3-7B-Instruct,COUNTRY: colombia,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,COUNTRY: país,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,RELATIONSHIP: novia,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,RELATIONSHIP: ex,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,RELATIONSHIP: noviazgo corto,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,RELATIONSHIP: relaciã³n a distancia,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,RELATIONSHIP: pareja sentimental,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: un colombiano,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: mi hijo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: un europeo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: un conocido,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,AGE: hace cinco años,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,AGE: 15 años,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Falcon3-7B-Instruct,COUNTRY: méxico,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Falcon3-7B-Instruct,COUNTRY: chile,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Falcon3-7B-Instruct,COUNTRY: venezuela,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Falcon3-7B-Instruct,PERSON: tu papá,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: tu hija,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: tu,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: tu mamá,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,RELATIONSHIP: novias,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,GROUP_NAME: compas,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,AGE: 24 años,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PRODUCT: cã¡mara,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,PRODUCT: cã¡mara de fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,FUTURE_AGE: 30-40 años,"Si, en unos 30-40 aÃ±os cuando la oferta supere a la demanda"
+Falcon3-7B-Instruct,URL: https://www.linkedin.com/,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Falcon3-7B-Instruct,URL: https://www.reddit.com/r/desahogo/comments/1f0e86j/semanal_s%c3%a1bado_terap%c3%a9tico_soy_terapeuta_y_admin/,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Falcon3-7B-Instruct,PERSON: trancesco,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Falcon3-7B-Instruct,AGE: 50 años,"Si porque le obligaron a alguien comerse un yogur cuando era chico , viviÃ³ 50 aÃ±os menos ...."
+Falcon3-7B-Instruct,RELATIONSHIP_DURATION: 2 años,"Mira yo soy una chica de 24 aÃ±os ,1.53 que pesaba 71kg ,me encuentro en una relaciÃ³n desde hace 2 "
+Falcon3-7B-Instruct,FEEL: relajado,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,FEEL: disfruto lo que está pasando,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,BEHAVIOR: besos,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,BEHAVIOR: sexo,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,BEHAVIOR: compartimos rato y comimos juntos,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,CONVERSATION: más de 1 mes de conversaciones con interés parejo de los dos,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,CONVERSATION_TOPIC: que todo siga bien,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,CONCERN: que todo se termine rápido y de la nada,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,RELATIONSHIP: relación,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,"ACTION: digo mi nombre, apellidos, documento de identidad, fecha y consentimiento",Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,ACTION: grabamos un video,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,FRIEND: 15m,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,AGE: 18f,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,AGE: 15m,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,AGE: 8 años,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Falcon3-7B-Instruct,AGE: mayores de 70 años,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Falcon3-7B-Instruct,PRODUCT: tarjeta mã¡s bã¡sica,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: tarjetas de comisiã³n anual,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: portabilidad con banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: promo,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,AGE: 7 años,"es muiy crudo eso , sabiendo que fueron 7 aÃ±os de amistad . No hay una forma de recuperarla"
+Mistral-7B-Instruct-v0.3,PERSON: morgan freeman,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,CURRENCY: peso plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,BOOK_SUBJECT: metales preciosos," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,BOOK_SUBJECT: dinero falso," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,BOOK_SUBJECT: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,BOOK_SUBJECT: ahorro en plata o oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,BOOK_TITLE: la era del dinero falso y porquã© es importante el ahorro en plata o en oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,PERSON: el autor del libro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,PRODUCT: oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,PRODUCT: monedas marcadas con valores chinos," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,PRODUCT: plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,LOCATION: mã©xico," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,LOCATION: china," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,HISTORICAL_EVENT: epoca colonial," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Mistral-7B-Instruct-v0.3,PERSON: un colombiano,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: mi ex,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: la persona que me hizo el comentario,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: un europeo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,ID_NUM: no se menciona,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Mistral-7B-Instruct-v0.3,EMAIL: no se menciona,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Mistral-7B-Instruct-v0.3,PHONE: no se menciona,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Mistral-7B-Instruct-v0.3,PERSON: el destinatario del mensaje,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Mistral-7B-Instruct-v0.3,LOCATION: espaã±a,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Mistral-7B-Instruct-v0.3,ID_NUM: h34,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,EMPLOYMENT_STATUS: unemployed,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,HOUSING_STATUS: homeless,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,NATIONALITY: mexicano,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,MARITAL_STATUS: divorced,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,DEPRESSION: yes,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,ANXIETY: yes,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,GOAL: director of a band,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,LOCATION: not specified,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,AGE: not specified,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Mistral-7B-Instruct-v0.3,COUNTRY: méxico,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,COUNTRY: chile,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,COUNTRY: venezuela,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,"CURRENCY: 3,131 cã³rdobas",Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,CURRENCY: 86 dã³lares,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: cã¡mara pentax k1000 de rollo,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: revelado de las fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,INSTAGRAM_STORY: instagram story with real testimonials,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,INSTAGRAM_PROFILE: https://www.instagram.com/consultorfran,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,REDDIT_POST_1: https://www.reddit.com/r/desahogo/comments/1boqa0p/megapost_terap%c3%a9utico_recursos_y_herramientas_que/,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,SOCIAL_MEDIA: linkedin,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,SOCIAL_MEDIA: reddit,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,SOCIAL_MEDIA: instagram,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,LINKEDIN_PROFILE: https://www.linkedin.com/in/consultorfran,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,PERSON: trancesco,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,REDDIT_POST_2: https://www.reddit.com/r/desahogo/comments/1f0e86j/semanal_s%c3%a1bado_terap%c3%a9utico_soy_terapeuta_y_admin/,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Mistral-7B-Instruct-v0.3,WORK_ENVIRONMENT: competitive,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,SKILLS: excel,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,SKILLS: negotiation,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,GENDER: chico,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,RELATIONSHIP_STATUS: soltero,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,OCCUPATION: vendedor,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,OCCUPATION: contact center,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,OCCUPATION: call center,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Mistral-7B-Instruct-v0.3,AGE: vivió 50 años menos,"Si porque le obligaron a alguien comerse un yogur cuando era chico , viviÃ³ 50 aÃ±os menos ...."
+Mistral-7B-Instruct-v0.3,ID_NUM: documento de identidad,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,SURNAME: not specified,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,NAME: not specified,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,GENDER: male,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,GENDER: female,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,LOCATION: not specified,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,AGE: 18f,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,AGE: 15m,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Mistral-7B-Instruct-v0.3,EDUCATION: carrera,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,EDUCATION: mã¡ster,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,AGE: 24 años,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,SEXUAL_ORIENTATION: lesbiana,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,"AGE: 23 años, 25 años, 26 años, 27 años",SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,AGE: 70 aã±os o mã¡s,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,ENTITY_TYPE: person,"Dale, hermano, de verdad crees que es por el anime?. Pareces de esos que creen que los tiroteos de U"
+Llama-3.1-8B-Instruct,PERSON: yo,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Llama-3.1-8B-Instruct,PERSON: el,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Llama-3.1-8B-Instruct,PERSON: ustedes,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Llama-3.1-8B-Instruct,PERSON: mi,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Llama-3.1-8B-Instruct,PERSON: morgan freeman,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Llama-3.1-8B-Instruct,PERSON: yo," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PERSON: tú," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,LOCATION: méxico," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,LOCATION: china," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,ID_NUM: 10 años," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,ID_NUM: 14 años," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PERSON: yo,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Llama-3.1-8B-Instruct,PERSON: chico,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Llama-3.1-8B-Instruct,LOCATION: trabajo,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Llama-3.1-8B-Instruct,LOCATION: casa,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Llama-3.1-8B-Instruct,AGE: 22 años,"Yo soy un chico de 22 aÃ±os, hace poco pase por un problema de amores y no fue algo que buscarÃ¡, si"
+Llama-3.1-8B-Instruct,CHILD: mi hijo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,PERSON: un colombiano,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,PERSON: mi ex,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,PERSON: un conocido,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,PERSON: un europeo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,LOCATION: el exterior,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,LOCATION: su paã­s,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,AGE: 5 aã±os,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,AGE: 1 aã±o,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Llama-3.1-8B-Instruct,PRODUCT: muebles,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,PRODUCT: estudio de grabaciã³n,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,PRODUCT: coche,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,LOCATION: mi ciudad de recidencial,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,PERSON: mi esposa,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,PERSON: soy mexicano,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,PERSON: ella,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,ID_NUM: h34,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,ORGANIZATION: una agrupaciã³n,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Llama-3.1-8B-Instruct,LOCATION: méxico,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Llama-3.1-8B-Instruct,COUNTRY: latinoamérica,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Llama-3.1-8B-Instruct,PRODUCT: cámara de fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,AGE: 30-40 años,"Si, en unos 30-40 aÃ±os cuando la oferta supere a la demanda"
+Llama-3.1-8B-Instruct,ID_NUM: no disponible,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,EMAIL: no disponible,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PRODUCT: megapost terapã­utico,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PRODUCT: sã¡bados terapã­uticos,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,WEBSITE: https://www.reddit.com/r/desahogo,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,WEBSITE: https://www.instagram.com/consultorfran,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PHONE: no disponible,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PERSON: trancesco,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,LOCATION: reddit,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,LOCATION: instagram,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PERSON: la niña mimada,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Llama-3.1-8B-Instruct,LOCATION: gmail,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Llama-3.1-8B-Instruct,"ID_NUM: 45,000mxn","Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PRODUCT: casa,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PERSON: mi esposa,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: comprobantes de ingresos,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: préstamo,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: intereses,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: ingresos,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: créditos,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,FINANCIAL: préstamos,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PRODUCT: badoo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,PERSON: mi terapeuta,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,LOCATION: espaã±a,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,AGE: 26,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,AGE: 25,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,AGE: 27 años,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,LOCATION: el parque,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Llama-3.1-8B-Instruct,LOCATION: mi casa,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Llama-3.1-8B-Instruct,PERSON: op,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Llama-3.1-8B-Instruct,PERSON: yo,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Llama-3.1-8B-Instruct,PERSON: tãº,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Llama-3.1-8B-Instruct,PERSON: el tipo,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "

@@ -1,0 +1,4 @@
+Language,Micro-Precision,Micro-Recall,Micro-F1,Hallucination Rate
+English,0.6567,0.6667,0.6617,10.45%
+French,0.3214,0.2784,0.2983,23.21%
+Spanish,0.4771,0.3862,0.4269,7.84%

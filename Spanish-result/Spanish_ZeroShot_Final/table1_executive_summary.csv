@@ -1,0 +1,4 @@
+Model Name,Micro-Precision,Micro-Recall,Micro-F1,Macro-F1,Hallucination Rate
+Falcon3-7B-Instruct,0.1495,0.1388,0.1439,0.0471,13.40%
+Mistral-7B-Instruct-v0.3,0.0593,0.1148,0.0782,0.0532,10.86%
+Llama-3.1-8B-Instruct,0.1450,0.1388,0.1418,0.0551,12.00%

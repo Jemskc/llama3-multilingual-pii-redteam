@@ -1,0 +1,346 @@
+Model,Hallucinated Entity,Input Text Snippet
+Falcon3-7B-Instruct,MISC: tarifs,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Falcon3-7B-Instruct,MISC: paiement automatique,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Falcon3-7B-Instruct,MISC: facture,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,MISC: chauffagiste,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,MISC: dã©vis clients,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,MISC: chaudiã¨re ã  gaz,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,MISC: ventilateur brouillant,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PERSON: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PERSON: ma fille,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,ORG: entreprise de chauffage,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,CURRENCY: 8e yen,"Ba si justement, c'est ce que je dis.
+
+Et des coiffeurs Ã  8e yen a plein partout, Ã©videmment c'est"
+Falcon3-7B-Instruct,MISC: très bon marché,"Ba si justement, c'est ce que je dis.
+
+Et des coiffeurs Ã  8e yen a plein partout, Ã©videmment c'est"
+Falcon3-7B-Instruct,PERSON: ma meilleure amis fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure pote fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure amie fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,MISC: dã©tachement,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,MISC: tuilage,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,ORGANIZATION: ministère,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,LINK: ,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: :,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: y,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: g,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: ),"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: t,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: n,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: h,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: o,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: i,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: e,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: [,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: /,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: v,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: d,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: .,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: u,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: s,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: (,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: p,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: é,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: r,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: f,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: ],"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,LINK: a,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,PERSON: ma meilleure amis fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure pote fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure amie fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Falcon3-7B-Instruct,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,LOCATION: maghreb,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: chine,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: thaïlande,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: vietnam,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: japon,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: kenya,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: mexique,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: france,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,LOCATION: inde,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Mistral-7B-Instruct-v0.3,TIME: un mois,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,TIME: aujourd'hui,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PRODUCT: matã©riel de vidã©osurveillance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,DURATION: 6 ans,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,CONTRACT: contrat de location,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,CONTRACT: contrat d'installation et maintenance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PENALTY: 30% des indemnitã©s restantes,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PENALTY: 10% de majoration si le matã©riel a ã©tã© installã©,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PERSON: je,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PAYMENT: paiement de l'installation,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PAYMENT: paiement de l'indemnitã©s restantes,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PERSON: tu,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,PERSON: stalker,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,MISC: facture,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,LOCATION: ma mã¨re's house,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRODUCT: nouvelle chaudiã¨re,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRODUCT: ventilateur,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRODUCT: chaudiã¨re ã  gaz,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,ID_NUM: code d'intervention 1.000,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PERSON: je,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PERSON: ma mã¨re,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,TIME: 9 mois ã  tirer,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,MISC: tuilage,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,MISC: perte de salaire,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,MISC: rh,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,MISC: dã©lais lã©gaux,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,LOCATION: education nationale (universitã©),"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,LOCATION: d'un autre ministã¨re,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,"PERSON: je suis agent public, un fonctionnaire","Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,PROFESSION: ingã©nieur catã©gorie a,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,PROFESSION: technicien support catã©gorie b,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Mistral-7B-Instruct-v0.3,PRODUCT: hã©bergeur d'images,"Vous pouvez le faire directement en rÃ©ponse par photo, ou par un hÃ©bergeur dâ€™images, ou en recop"
+Mistral-7B-Instruct-v0.3,MISC: santé psy étudiant,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Mistral-7B-Instruct-v0.3,LOCATION: senegal,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,LOCATION: france,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,PERSON: ma mère,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,MISC: aller-retour bordeaux-strasbourg,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Mistral-7B-Instruct-v0.3,LOCATION: bordeaux,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Mistral-7B-Instruct-v0.3,PERSON: étudiante étrangère en stage,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,PERSON: ma mère,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Llama-3.1-8B-Instruct,PERSON: mon père,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Llama-3.1-8B-Instruct,ORGANIZATION: bâtards,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Llama-3.1-8B-Instruct,EMOTION: ã¢me,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Llama-3.1-8B-Instruct,EMOTION: rire,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Llama-3.1-8B-Instruct,LOCATION: maghreb,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: chine,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: thaïlande,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: vietnam,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: japon,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: kenya,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: mexique,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: france,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: inde,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PERSON: zoé sfez,Je suis une fan dâ€™Affaires sensibles comme beaucoup apparemment ! Jâ€™aime aussi beaucoup la sÃ©ri
+Llama-3.1-8B-Instruct,LOCATION: appartement,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,PERSON: votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,PERSON: la sœur de la femme de votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,ORGANIZATION: curatelle,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,ORGANIZATION: tutelle,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,MISC: contrat de location,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Llama-3.1-8B-Instruct,MISC: autocollant,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Llama-3.1-8B-Instruct,ID_NUM: 6 ans,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Llama-3.1-8B-Instruct,ORGANIZATION: système de vidéosurveillance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Llama-3.1-8B-Instruct,PERSON: commercial,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Llama-3.1-8B-Instruct,LOCATION: europe,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: tu,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: lui,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: mes amis,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: moi,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: le gars d'into the wild,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: je,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,ORGANIZATION: sub,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,DATE_TIME: 9 mois,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,DATE_TIME: 25 ans,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,MISC: facture,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,MISC: code d'intervention,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,MISC: démence,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,MISC: chaudière,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,MISC: ventilateur,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,MISC: dégraissé,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,LOCATION: chez ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,LOCATION: chez moi,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,ORGANIZATION: l'entreprise de chauffage,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PERSON: le chauffagiste,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PERSON: le chef de l'entreprise,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PERSON: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,DATE: au moins 4 ans,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: septembre,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: l'ãtã  derniã¨re,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: une fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,MISC: somme d'argent,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,MISC: bail,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,LOCATION: le logement,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,ORGANIZATION: huissier,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,PERSON: ma mère,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,PERSON: le locataire,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Llama-3.1-8B-Instruct,TITLE: rh,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,ORGANIZATION: ministère,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,PHONE: numéros bizzare,"T'inquiÃ¨tes pas, surtout continue bien Ã  rÃ©pondre Ã  tous les numÃ©ros bizzare qui t'appellent, c"
+Llama-3.1-8B-Instruct,PERSON: mã¨decin du sommeil,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,PERSON: mã¨decin traitant,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,LOCATION: déménagement fontainebleau,Aller prendre une pizza Ã  DÃ©mÃ© Fontainebleau.
+Llama-3.1-8B-Instruct,LOCATION: senegal,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,LOCATION: france,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,MISC: derive sectaire,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,MISC: voyage humanitaire,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,MISC: sdf,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,ID_NUM: page instagram,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,PERSON: ta mère,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,ORGANIZATION: association,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,EVENT: l'épidémie de flemme,"J'ai un peu la mÃªme impression, et ""l'Ã©pidÃ©mie de flemme"" mentionnÃ©e dans un autre commentaire c"
+Llama-3.1-8B-Instruct,DATE: au moins 4 ans,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: septembre,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: l'ãtã  derniã¨re,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: une fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PRODUCT: riz thaï,"Team 1.25 ici aussi ! Et plus je fais une grosse dose, plus je me rapproche de 1. Riz thaÃ¯"
+Llama-3.1-8B-Instruct,LOCATION: bordeaux,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,LOCATION: strasbourg,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,VEHICLE: voiture d'occasion,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,VEHICLE: voiture de location,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,ORGANIZATION: université,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,PERSON: famille,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,PERSON: amis,"â€‹Si j'avais plus de flexibilitÃ©, tant au niveau du temps que de l'argent, je n'aurais pas Ã©crit "
+Llama-3.1-8B-Instruct,LOCATION: saint rãmy les chevreuse,"Demande lui s'il connait un bon vendeur de poÃªle Ã  crÃªpes sur Saint RÃ©my les Chevreuse, enfin je"

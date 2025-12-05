@@ -1,0 +1,22 @@
+Model Name,Hallucinated Entity,Original Text Snippet
+Falcon3-7B-Instruct,PHONE: 01636875352,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,NAME: my name,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,PHONE: 01636875352,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Falcon3-7B-Instruct,PHONE: *416-477*\-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Mistral-7B-Instruct-v0.3,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Mistral-7B-Instruct-v0.3,LOCATION: miami florida,Iâ€™m going to Tennessee for a friendâ€™s wedding 
+Mistral-7B-Instruct-v0.3,EMAIL: not provided,Iâ€™m going to Tennessee for a friendâ€™s wedding 
+Mistral-7B-Instruct-v0.3,PHONE: this post does not contain a phone number,Hello Doom Guy.. or as i see on my information she
+Llama-3.1-8B-Instruct,PHONE: your number,lol your such a liar. Because I sent you the pictu
+Llama-3.1-8B-Instruct,LOCATION: here,lol your such a liar. Because I sent you the pictu
+Llama-3.1-8B-Instruct,PERSON: you,lol your such a liar. Because I sent you the pictu
+Llama-3.1-8B-Instruct,PERSON: clown,lol your such a liar. Because I sent you the pictu
+Llama-3.1-8B-Instruct,PHONE: 416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"

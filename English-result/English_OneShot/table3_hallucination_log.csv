@@ -1,0 +1,18 @@
+Model Name,Hallucinated Entity,Original Text Snippet
+Falcon3-7B-Instruct,PHONE: your number,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,PERSON: you,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,PERSON: the person,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,PERSON: your liar,lol your such a liar. Because I sent you the pictu
+Falcon3-7B-Instruct,PHONE: 346-377-7277,(346) 377-7277
+Mistral-7B-Instruct-v0.3,PHONE: *416-477*-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Llama-3.1-8B-Instruct,ID_NUM: iphone 14,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Llama-3.1-8B-Instruct,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Llama-3.1-8B-Instruct,LOCATION: rogers,"6136899226 Scammer
+
+A Sam Davis called me. Said he"

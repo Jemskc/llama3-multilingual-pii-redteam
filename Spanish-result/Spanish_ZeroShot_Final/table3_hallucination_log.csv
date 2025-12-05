@@ -1,0 +1,551 @@
+Model,Hallucinated Entity,Input Text Snippet
+Falcon3-7B-Instruct,PERSON: morgan freeman,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Falcon3-7B-Instruct,OTHER: activas,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Falcon3-7B-Instruct,OTHER: silenciar llamadas desconocidas,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Falcon3-7B-Instruct,OTHER: ajustes,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Falcon3-7B-Instruct,OTHER: llamadas desconocidas,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Falcon3-7B-Instruct,OTHER: botón,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Falcon3-7B-Instruct,PERSON: tú,"Tengo 28 aÃ±os, y aÃºn no me doy cuenta hahahaha.
+Pues en las intenciones, como te trata, si te cuid"
+Falcon3-7B-Instruct,PERSON: yo,"Tengo 28 aÃ±os, y aÃºn no me doy cuenta hahahaha.
+Pues en las intenciones, como te trata, si te cuid"
+Falcon3-7B-Instruct,ORG: universidad," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,LOCATION: mã©xico," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: onza libertad de plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: la era del dinero falso," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: libro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: centenerio," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PRODUCT: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Falcon3-7B-Instruct,PERSON: ex,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: colombian,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,PERSON: european,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,LOCATION: his country,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Falcon3-7B-Instruct,LOCATION: espaã­a,"No estoy generando ruido, es posible que haya detalles que se me escapen de tu caso y que cambien co"
+Falcon3-7B-Instruct,LOCATION: mi ciudad de recidencial,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,PRODUCT: coche,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,PRODUCT: estudio de grabaciã³n,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,DATE: 10 aã±os,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,DATE: 4 aã±os,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,DATE: 4 meses,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,PERSON: soy mexicano h34,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,PERSON: ella,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,PERSON: mi esposa,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,ID_NUM: h34,"Saludos, Soy Mexicano H34.... Luego de superar un problema con las drogas bastante serio y despuÃ©s "
+Falcon3-7B-Instruct,CARDINAL: 93,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Falcon3-7B-Instruct,LOCATION: latinamerica,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Falcon3-7B-Instruct,PERSON: tu,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: tu papã¡,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: mis papã¡s,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,PERSON: tu hija,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Falcon3-7B-Instruct,LOCATION: la casa de ella,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,LOCATION: la universidad,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PERSON: ella,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PERSON: mis exnovias,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PERSON: mi amiga,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PERSON: mis amigos,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,PERSON: yo,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: whatsapp,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: instagram,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: mr,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: memes,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: cine,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: cafã©,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,OTHER: reels,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Falcon3-7B-Instruct,LOCATION: país,Creo que no tienes mucha idea de polÃ­tica internacional. Hace unos meses Trump borrÃ³ de toda prote
+Falcon3-7B-Instruct,LOCATION: mi paã­s,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,PRODUCT: rollo de fotografia,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Falcon3-7B-Instruct,sensitive_entities: location,"Nigeria tuvo un â€œdecrementoâ€ extraordinario,
+
+1993: 94
+
+2024: 96 
+
+ðŸ’€"
+Falcon3-7B-Instruct,WORK_TITLE: vendedor,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,WORK_TITLE: excel,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,WORK_TITLE: herramientas de gestiã³n,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,WORK_TITLE: negociaciã³n,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,WORK_TITLE: call center,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,WORK_TITLE: contact center,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: mis supervisores,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: mis compaã±eros de trabajo,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: mi compaã±era de trabajo,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: mis compaã±eras de trabajo,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: chico soltero,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: yo,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: otra compaã±era,"Contexto: tengo 23 aÃ±os, me gustan los negocios y las ventas, siempre tuve trabajos como vendedor y"
+Falcon3-7B-Instruct,PERSON: tienes amigos que estã¡n en tercero de carrera,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Falcon3-7B-Instruct,AGE: 19 aã±os,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Falcon3-7B-Instruct,AGE: 30 aã±os,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Falcon3-7B-Instruct,PRODUCT: fp,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Falcon3-7B-Instruct,LOCATION: mi país,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,PERSON: 15m,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,PERSON: 18f,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,PERSON: amigo (15m),Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,ID_NUM: documento de identidad,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,OTHER: apellidos,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,OTHER: nombre,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,OTHER: fecha,Soy 15M estoy empezando una relaciÃ³n con una 18F. Hace un par de meses habÃ­a atracciÃ³n y conversa
+Falcon3-7B-Instruct,OTHER: mmm mmm dudoso,Argentina 3 puntos antes q USA? MMMMMMM dudoso
+Falcon3-7B-Instruct,PERSON: mi amigo,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,PERSON: yo,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: empresa,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: electricista,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: derecho,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: fontanero,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: ade,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: grado simple,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,OTHER: doble,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Falcon3-7B-Instruct,PRODUCT: badoo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,LOCATION: terapia,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,LOCATION: discord,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,LOCATION: badoo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,PERSON: una mujer espaã±ola,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,PERSON: la chica,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,PERSON: yo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Falcon3-7B-Instruct,PRODUCT: santander,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: promo,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: tarjetas de comisiã³n anual,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: portabilidad,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,PRODUCT: nominas,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,ORG: banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,ORG: santander,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Falcon3-7B-Instruct,LOCATION: el parque,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Falcon3-7B-Instruct,LOCATION: al lado de mi casa,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Falcon3-7B-Instruct,PERSON: tãº,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Falcon3-7B-Instruct,PERSON: yo,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Falcon3-7B-Instruct,OTHER: op,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,NOTE: ,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: a,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: t,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: ),Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: b,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: l,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: o,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,"NOTE: ,",Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: x,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: u,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: n,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: m,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: .,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: e,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: r,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: h,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: c,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: f,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: _,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: g,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: p,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: (,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: s,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: d,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: i,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,NOTE: y,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,PERSON: mi amigo imaginario,Acabo de investigar un poco... Parece que es como una especie de amigo imaginario solo que es mas re
+Mistral-7B-Instruct-v0.3,"TEXT: morgan ""diosito"" freeman habla en ingles y lo describe igual: ""usted no tiene miedo, usted es un imbecil""","Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: usted,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: imbecil,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: no tiene miedo,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: diosito,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: ingles,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,NON_SENSITIVE_ENTITIES: morgan,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,PERSON: morgan freeman,"Morgan ""diosito"" Freeman habla en inglÃ©s y lo describe igual: ""Usted no tiene miedo, usted es un im"
+Mistral-7B-Instruct-v0.3,TEXT: ,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: a,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: j,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: t,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: q,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: ‘,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: b,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: l,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: o,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: u,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: n,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: m,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: .,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: e,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: r,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: h,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: c,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: ’,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: ó,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: p,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: s,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: d,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: i,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,TEXT: y,En iphone hay un botÃ³n en ajustes que se llama â€œsilenciar llamadas desconocidasâ€. Si lo activas
+Mistral-7B-Instruct-v0.3,PERSON: you,"Tengo 28 aÃ±os, y aÃºn no me doy cuenta hahahaha.
+Pues en las intenciones, como te trata, si te cuid"
+Mistral-7B-Instruct-v0.3,PERSON: i,"Tengo 28 aÃ±os, y aÃºn no me doy cuenta hahahaha.
+Pues en las intenciones, como te trata, si te cuid"
+Mistral-7B-Instruct-v0.3,COMMENT: que no le doy el chance a los que si estã¡n aquã­,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,LOCATION: exterior,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: mi ex,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: un colombiano,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,PERSON: un europeo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: 10 aã±os,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: otra relaciã³n,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: un noviazgo corto,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: un hijo,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: una relaciã³n a distancia,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,RELATIONSHIP: dos personas,Me separÃ© hace cinco aÃ±os de mi ex con el que durÃ© 10 aÃ±os y tengo un hijo con Ã©l. Desde ese en
+Mistral-7B-Instruct-v0.3,TEXT: ,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: a,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: z,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: t,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: q,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: v,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: ),"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: b,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: l,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: o,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,"TEXT: ,","de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: x,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: u,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: n,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: 3,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: m,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: .,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: e,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: r,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: h,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: c,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: f,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: í,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: 9,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: g,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: (,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: s,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: d,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: i,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,TEXT: y,"de hecho segun el grafico, ya en el 93 eramos menos homofobicos que mexico y venezuela hoy en dÃ­a ("
+Mistral-7B-Instruct-v0.3,PERSON: ese bebé,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Mistral-7B-Instruct-v0.3,PERSON: tus papás,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Mistral-7B-Instruct-v0.3,PERSON: tú,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Mistral-7B-Instruct-v0.3,AMOUNT: 86 dólares,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,"AMOUNT: 3,131 córdobas",Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,LOCATION: mi país,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: revelado de las fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: cámara pentax k1000 de rollo,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PRODUCT: rollos de fotografia,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,SERVICE: revelado de las fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,CURRENCY: córdobas,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,CURRENCY: dólares,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PERSON: mi familia,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Mistral-7B-Instruct-v0.3,PERSON: age,"187k anual, pÃ³liza colectiva de GNP, edad 76 aÃ±os.
+Un robo"
+Mistral-7B-Instruct-v0.3,PRODUCT: insurance_type,"187k anual, pÃ³liza colectiva de GNP, edad 76 aÃ±os.
+Un robo"
+Mistral-7B-Instruct-v0.3,AGE: 30,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,AGE: 19,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,PERSON: you,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,PERSON: i,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,OTHER: fp,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,OTHER: my own business,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,OTHER: things,"Tienes 19 aÃ±os no vas tarde, puede que tengas amigos que estÃ©n en tercero de carrera y creas que v"
+Mistral-7B-Instruct-v0.3,PROFESSION: electricista,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,PROFESSION: fontanero,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,CAREER: la que me preparo,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,CAREER: ade,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,CAREER: mi carrera,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,CAREER: derecho,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,LOCATION_NOT_SPECIFIC: vamos a tener 30 aã±os,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,LOCATION_NOT_SPECIFIC: nosotros,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,PERSON: mi amigo,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,PERSON: yo,"No se si verÃ¡s esto ya que han pasado muchos dÃ­as pero aquÃ­ va, yo tengo tu edad y acabo de termi"
+Mistral-7B-Instruct-v0.3,LOCATION: ejidal,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,PERSON: mi esposa,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,PERSON: yo,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,BANK: bbva,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,BANK: caja popular mexicana,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,INCOME: source,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,INCOME: amount,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,INCOME: type,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,INCOME: frequency,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Mistral-7B-Instruct-v0.3,PRODUCT: seminuevo,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: ,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: a,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: t,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: q,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: v,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: l,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: o,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,"TEXT: ,","Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: u,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: n,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: s,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: m,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: e,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: r,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: c,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: f,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: g,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: 1,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: .,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: d,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: i,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,TEXT: y,"Ganan mÃ¡s con los intereses del financiamiento, son caciques. Te recomiendo un seminuevo con menos "
+Mistral-7B-Instruct-v0.3,STUDY: pir,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,AGE: 23,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,AGE: 27,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,AGE: 25,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,AGE: 26,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,LOCATION: no especificado,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,IDENTITY: lesbiana,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,TREATMENT: terapia,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,PERSON: i,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,APPLICATION: discord,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,APPLICATION: badoo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Mistral-7B-Instruct-v0.3,PERSON: la mayoría de personas,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,PERSON: sinceramente,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,PERSON: los apoyos de gobierno,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,PERSON: mucha gente,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,AGE: mucha gente de clase baja mayores de 70 años,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Mistral-7B-Instruct-v0.3,AMOUNT: < 1 k,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,AMOUNT: 10 k,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,FINANCIAL_INSTITUTION: banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,FINANCIAL_INSTITUTION: santander,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,LOCATION: banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,PRODUCT: tarjetas de comisiã³n anual,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,PRODUCT: portabilidad,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,PRODUCT: nã³mina,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,PERSON: yo,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,ID_NUM: 3,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Mistral-7B-Instruct-v0.3,MONEY: 10mil dã³lares,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,TOPIC: alcohol,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,TOPIC: op,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,PERSON: tu,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,LOCATION: parque que estã¡ al lado de mi casa,"SÃ­, el tipo es una mierda, y seguramente deberÃ­a ir a la cÃ¡rcel, pero eso no libra a ella de las "
+Mistral-7B-Instruct-v0.3,PERSON: ella,"es muiy crudo eso , sabiendo que fueron 7 aÃ±os de amistad . No hay una forma de recuperarla"
+Mistral-7B-Instruct-v0.3,PERSON: ellos,"es muiy crudo eso , sabiendo que fueron 7 aÃ±os de amistad . No hay una forma de recuperarla"
+Mistral-7B-Instruct-v0.3,LOCATION: no hay una forma de recuperarla,"es muiy crudo eso , sabiendo que fueron 7 aÃ±os de amistad . No hay una forma de recuperarla"
+Mistral-7B-Instruct-v0.3,Text: ,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: a,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: t,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: l,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: ñ,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: o,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: 0,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: x,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: u,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: n,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: 3,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: e,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: r,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: c,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: h,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: ó,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: g,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: s,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: d,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Mistral-7B-Instruct-v0.3,Text: i,Cual generaciÃ³n de ahora si tiene 30 aÃ±os xd
+Llama-3.1-8B-Instruct,LOCATION: mã‰xico,"Buenos dÃ­as OP,
+
+En MÃ©xico rendimientos arriba del 10% sin riesgo son casi imposibles. Lo vimos co"
+Llama-3.1-8B-Instruct,PERSON: op,"Buenos dÃ­as OP,
+
+En MÃ©xico rendimientos arriba del 10% sin riesgo son casi imposibles. Lo vimos co"
+Llama-3.1-8B-Instruct,ORGANIZATION: sofipo,"Buenos dÃ­as OP,
+
+En MÃ©xico rendimientos arriba del 10% sin riesgo son casi imposibles. Lo vimos co"
+Llama-3.1-8B-Instruct,LOCATION: mã‰xico," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,LOCATION: china," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,ORGANIZATION: universidad," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PRODUCT: oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,DATE: 10 aã±os," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,DATE: 14 aã±os," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,LANGUAGE: espaã±ol," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,TITLE: la era del dinero falso y porquã© es importante el ahorro en plata o en oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PERSON: tãº," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,PERSON: yo," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: ahorro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: plata," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: oro," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: dinero falso," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: btc," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,KEYWORD: metales preciosos," El oro y la plata son parte de mi portafolio desde hace 14 aÃ±os, a eso me referÃ­a con mÃ¡s de 10 "
+Llama-3.1-8B-Instruct,LOCATION: espaã±a,"Son llamadas estafa, a mi me llegan varias al dÃ­a. Si contestas, no digas â€œsi?â€, no digas nada,"
+Llama-3.1-8B-Instruct,LOCATION: madrid,"Son llamadas estafa, a mi me llegan varias al dÃ­a. Si contestas, no digas â€œsi?â€, no digas nada,"
+Llama-3.1-8B-Instruct,PHONE: un numero nuevo,"Son llamadas estafa, a mi me llegan varias al dÃ­a. Si contestas, no digas â€œsi?â€, no digas nada,"
+Llama-3.1-8B-Instruct,PERSON: robinson,"Son llamadas estafa, a mi me llegan varias al dÃ­a. Si contestas, no digas â€œsi?â€, no digas nada,"
+Llama-3.1-8B-Instruct,PERSON: tus papã¡s,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Llama-3.1-8B-Instruct,PERSON: mi papã¡s,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Llama-3.1-8B-Instruct,PERSON: tu pareja,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Llama-3.1-8B-Instruct,PERSON: tãº,"Antes que nada, Â¡felicidades! Puede que en estos momentos estÃ©s angustiada, pero por cÃ³mo lo rela"
+Llama-3.1-8B-Instruct,LOCATION: casa,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LOCATION: universidad,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: cafã,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: peli,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: reels,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: instagram,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: whatsapp,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PRODUCT: cine,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: e,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: a,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: ±,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: ã,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: l,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: o,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: p,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,LANGUAGE: s,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: ella,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: usted,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: mi,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: exnovias,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: yo,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: amigos,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,PERSON: compas,"Primero que todo soy hombre, pero siempre e tenido de amigos a gente de un rango muy amplio.
+La cues"
+Llama-3.1-8B-Instruct,ORGANIZATION: fujifilm,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,LOCATION: mi paã­s,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: cã¡mara de fotos,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: rollo de fotografia,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: fujifilm mini instax 11,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: cã¡mara pentax k1000,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,DATE: diciembre,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PERSON: mi familia,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PERSON: yo,Voy a contar la historia desde diciempre del aÃ±o pasado estuve pensando comprarme una cÃ¡mara de fo
+Llama-3.1-8B-Instruct,PRODUCT: sábad@s terapéuticos,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PRODUCT: megapost terapéutico,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PERSON: trancesco,"Hola, querida comunidad!
+
+Dada a la enorme cantidad de posts que recibimos por dÃ­a y el crecimiento"
+Llama-3.1-8B-Instruct,PERSON: la niña mimada,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Llama-3.1-8B-Instruct,PERSON: mi,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Llama-3.1-8B-Instruct,EMAIL: gmail,"Querer paz no es lo malo.
+Lo malo es que tengo que cerrar mis redes sociales que uso de hace mÃ¡s de"
+Llama-3.1-8B-Instruct,PRODUCT: préstamo,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PRODUCT: casa,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PRODUCT: terreno,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: a,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: h,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: i,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: p,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: s,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,LANGUAGE: n,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,CURRENCY: m,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,CURRENCY: x,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,CURRENCY: n,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PERSON: mi esposa,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PERSON: yo,"Buenas noches. Me voy a explicar de manera breve.
+
+Mi esposa y yo queremos terminar de construir una"
+Llama-3.1-8B-Instruct,PRODUCT: carro,"TambiÃ©n, un carro nuevo de 10,000 estÃ¡ bien si te lo puedes permitir y no te atoras, si estÃ¡s ras"
+Llama-3.1-8B-Instruct,PRODUCT: nissan,"TambiÃ©n, un carro nuevo de 10,000 estÃ¡ bien si te lo puedes permitir y no te atoras, si estÃ¡s ras"
+Llama-3.1-8B-Instruct,PERSON: tú,"TambiÃ©n, un carro nuevo de 10,000 estÃ¡ bien si te lo puedes permitir y no te atoras, si estÃ¡s ras"
+Llama-3.1-8B-Instruct,PERSON: yo,"TambiÃ©n, un carro nuevo de 10,000 estÃ¡ bien si te lo puedes permitir y no te atoras, si estÃ¡s ras"
+Llama-3.1-8B-Instruct,USERNAME: mi,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,LOCATION: espaã±a,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,PRODUCT: badoo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,PERSON: mi terapeuta,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,PERSON: mi,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,PERSON: yo,SÃ© que la pregunta suena un poco mal asÃ­ que dejad que me explique. Soy una mujer espaÃ±ola de 23 
+Llama-3.1-8B-Instruct,LOCATION: la india,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,LANGUAGE: español,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,PERSON: usted,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,PERSON: su,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,PERSON: sus,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,PERSON: papás,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,GPE: la india,"que pasarÃ¡? mucha mucha migraciÃ³n, la India ellos no tienen problemas con natalidad, al menos no a"
+Llama-3.1-8B-Instruct,PERSON: vendedores de movistar,"Probablemente robocalls, llamadas automaticas que hace una maquina y si no es posible que al contest"
+Llama-3.1-8B-Instruct,PERSON: vendedores de telcel,"Probablemente robocalls, llamadas automaticas que hace una maquina y si no es posible que al contest"
+Llama-3.1-8B-Instruct,LOCATION: callcenter,"Probablemente robocalls, llamadas automaticas que hace una maquina y si no es posible que al contest"
+Llama-3.1-8B-Instruct,LOCATION: banorte,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,LOCATION: santander,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,PRODUCT: tarjetas de comisiã³n anual,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,PRODUCT: portabilidad,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,PRODUCT: promo,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,CREDIT_CARD: tarjetas de comisiã³n anual,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,PERSON: tú,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid
+Llama-3.1-8B-Instruct,PERSON: yo,Yo tengo 3  ( desde hace varios aÃ±os ) no cumplo con la meta de gasto y no pago por ninguna anualid

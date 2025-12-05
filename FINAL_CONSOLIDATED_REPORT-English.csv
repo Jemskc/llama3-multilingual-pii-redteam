@@ -1,0 +1,105 @@
+========== TABLE 1: EXECUTIVE SUMMARY ==========,,,,,,
+Strategy,Model Name,Micro-Precision,Micro-Recall,Micro-F1,Macro-F1,Hallucination Rate
+Zero-Shot,Falcon3-7B-Instruct,0.4478,0.4545,0.4511,0.1903,1.49%
+One-Shot,Falcon3-7B-Instruct,0.4058,0.4242,0.4148,0.2125,4.35%
+Few-Shot,Falcon3-7B-Instruct,0.5246,0.4848,0.5039,0.2711,3.28%
+Zero-Shot,Llama-3.1-8B-Instruct,0.4507,0.4848,0.4672,0.1877,1.41%
+One-Shot,Llama-3.1-8B-Instruct,0.3976,0.5,0.443,0.2015,1.20%
+Few-Shot,Llama-3.1-8B-Instruct,0.4648,0.5,0.4818,0.2072,2.82%
+Zero-Shot,Mistral-7B-Instruct-v0.3,0.4231,0.5,0.4583,0.1863,6.41%
+One-Shot,Mistral-7B-Instruct-v0.3,0.4697,0.4697,0.4697,0.2322,1.52%
+Few-Shot,Mistral-7B-Instruct-v0.3,0.4638,0.4848,0.4741,0.274,4.35%
+,,,,,,
+========== TABLE 2: ENTITY BREAKDOWN ==========,,,,,,
+Strategy,Entity Category,Falcon3-7B-Instruct (F1),Mistral-7B-Instruct-v0.3 (F1),Llama-3.1-8B-Instruct (F1),Total Count (Support),
+Zero-Shot,AGE,0,0,0,1,
+One-Shot,AGE,0,0,1,1,
+Few-Shot,AGE,0,1,0,1,
+Zero-Shot,APP,0,0,0,1,
+One-Shot,APP,0,0,0,1,
+Few-Shot,APP,0,0,0,1,
+Zero-Shot,DATE_TIME,0,0,0,6,
+One-Shot,DATE_TIME,0.5,0,0,6,
+Few-Shot,DATE_TIME,0.5,0,0.5,6,
+Zero-Shot,EMAIL,1,1,1,1,
+One-Shot,EMAIL,1,1,1,1,
+Few-Shot,EMAIL,1,0.6667,1,1,
+Zero-Shot,ID_NUM,0,0,0,0,
+One-Shot,ID_NUM,0,0,0,0,
+Zero-Shot,LOCATION,0.4444,0.5455,0.6154,7,
+One-Shot,LOCATION,0.4,0.4444,0.3333,7,
+Few-Shot,LOCATION,0.4444,0.4444,0.3333,7,
+Few-Shot,NAME,0,0,0,0,
+Zero-Shot,NRP,0,0,0,1,
+One-Shot,NRP,0,0,0,1,
+Few-Shot,NRP,0,0,0,1,
+One-Shot,ORG,0,0,0,0,
+Few-Shot,ORG,0,0,0,0,
+Zero-Shot,OTHER,0,0,0,0,
+One-Shot,OTHER,0,0,0,0,
+Zero-Shot,PERSON,0.3,0.3333,0.2857,5,
+One-Shot,PERSON,0.375,0.3158,0.3478,5,
+Few-Shot,PERSON,0.5,0.3529,0.3077,5,
+Zero-Shot,PHONE,0.5393,0.5435,0.5393,45,
+One-Shot,PHONE,0.4878,0.5618,0.5435,45,
+Few-Shot,PHONE,0.5376,0.5495,0.5532,45,
+One-Shot,PHONE_NUMBERS,0,0,0,0,
+Zero-Shot,SOCIAL_MEDIA,0,0,0,0,
+Zero-Shot,URL,0,0,0,1,
+One-Shot,URL,0,0,0,1,
+Few-Shot,URL,0,0,0,1,
+,,,,,,
+========== TABLE 3: HALLUCINATION LOG ==========,,,,,,
+Strategy,Model Name,Hallucinated Entity,Original Text Snippet,,,
+Zero-Shot,Falcon3-7B-Instruct,SOCIAL_MEDIA: facebook,Iâ€™m going to Tennessee for a friendâ€™s wedding ,,,
+Zero-Shot,Falcon3-7B-Instruct,LOCATION: miami florida,Iâ€™m going to Tennessee for a friendâ€™s wedding ,,,
+Zero-Shot,Falcon3-7B-Instruct,PERSON: friend,Iâ€™m going to Tennessee for a friendâ€™s wedding ,,,
+One-Shot,Falcon3-7B-Instruct,PHONE: your number,lol your such a liar. Because I sent you the pictu,,,
+One-Shot,Falcon3-7B-Instruct,PERSON: you,lol your such a liar. Because I sent you the pictu,,,
+One-Shot,Falcon3-7B-Instruct,PERSON: the person,lol your such a liar. Because I sent you the pictu,,,
+One-Shot,Falcon3-7B-Instruct,PERSON: your liar,lol your such a liar. Because I sent you the pictu,,,
+One-Shot,Falcon3-7B-Instruct,PHONE: 346-377-7277,(346) 377-7277,,,
+Few-Shot,Falcon3-7B-Instruct,PHONE: 01636875352,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Falcon3-7B-Instruct,NAME: my name,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Falcon3-7B-Instruct,PHONE: 01636875352,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Few-Shot,Falcon3-7B-Instruct,PHONE: *416-477*\-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Zero-Shot,Llama-3.1-8B-Instruct,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+One-Shot,Llama-3.1-8B-Instruct,ID_NUM: iphone 14,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+One-Shot,Llama-3.1-8B-Instruct,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+One-Shot,Llama-3.1-8B-Instruct,LOCATION: rogers,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Few-Shot,Llama-3.1-8B-Instruct,PHONE: your number,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Llama-3.1-8B-Instruct,LOCATION: here,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Llama-3.1-8B-Instruct,PERSON: you,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Llama-3.1-8B-Instruct,PERSON: clown,lol your such a liar. Because I sent you the pictu,,,
+Few-Shot,Llama-3.1-8B-Instruct,PHONE: 416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PHONE: 416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PHONE: not explicitly mentioned,Hello Doom Guy.. or as i see on my information she,,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PHONE: +[688],Today i have two different number calling me but h,,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PHONE: 1 (902) 404-9234,1+ (902) 404-9234 Called me sir so I corrected him,,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PERSON: i,1+ (902) 404-9234 Called me sir so I corrected him,,,
+Zero-Shot,Mistral-7B-Instruct-v0.3,PERSON: you,+55 17 991277071 he is sending my phone to others ,,,
+One-Shot,Mistral-7B-Instruct-v0.3,PHONE: *416-477*-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Few-Shot,Mistral-7B-Instruct-v0.3,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he",,,
+Few-Shot,Mistral-7B-Instruct-v0.3,LOCATION: miami florida,Iâ€™m going to Tennessee for a friendâ€™s wedding ,,,
+Few-Shot,Mistral-7B-Instruct-v0.3,EMAIL: not provided,Iâ€™m going to Tennessee for a friendâ€™s wedding ,,,
+Few-Shot,Mistral-7B-Instruct-v0.3,PHONE: this post does not contain a phone number,Hello Doom Guy.. or as i see on my information she,,,

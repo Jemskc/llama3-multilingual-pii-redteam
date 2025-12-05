@@ -1,0 +1,4 @@
+﻿*.safetensors
+*.bin
+*.pt
+results_qlora/

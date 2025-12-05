@@ -1,0 +1,837 @@
+Model,Hallucinated Entity,Input Text Snippet
+Falcon3-7B-Instruct,DATE: 1998,"J'ai 34 ans, je crois que c'est la crise depuis que je suis petite avec une petite pause en 97/98. 
+"
+Falcon3-7B-Instruct,DATE: 1997,"J'ai 34 ans, je crois que c'est la crise depuis que je suis petite avec une petite pause en 97/98. 
+"
+Falcon3-7B-Instruct,YEAR: 1970s,"J'ai 34 ans, je crois que c'est la crise depuis que je suis petite avec une petite pause en 97/98. 
+"
+Falcon3-7B-Instruct,OTHER: bpmed,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Falcon3-7B-Instruct,OTHER: mes parts sociales,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Falcon3-7B-Instruct,PERSON: ma mère,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Falcon3-7B-Instruct,PERSON: mes parents,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Falcon3-7B-Instruct,PERSON: mon père,Alors il se trouve que ma mÃ¨re est dans le mÃªme cas que moi. Le nombre de parts sociales de la BPM
+Falcon3-7B-Instruct,LOCATION: mexico,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: thailand,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: japan,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: vietnam,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: kenya,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: france,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: maghreb,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: china,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: india,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: chut thai,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: djellaba,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: kimono,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: kitenge,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: qipao,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: ão dã i,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: sari,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,PRODUCT: huipil,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Falcon3-7B-Instruct,LOCATION: appartement,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,OTHER: nu-propriã©tã©,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,OTHER: acquisition,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,OTHER: dã©cã¨s,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,OTHER: leg,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,OTHER: usufruit,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,PERSON: votre pã¨re,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,PERSON: la så“ur de la femme de votre pã¨re,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Falcon3-7B-Instruct,PRODUCT: matã©riel de vidã©osurveillance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Falcon3-7B-Instruct,CONTRACT: contrat de location,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Falcon3-7B-Instruct,CONTRACT: contrat d'installation et maintenance de systã¨me de vidã©osurveillance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Falcon3-7B-Instruct,LOCATION: ma maison,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,LOCATION: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PRODUCT: ventilateur,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PRODUCT: chaudiã¨re ã  gaz,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,OTHER: chef de l'entreprise de chauffage,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,OTHER: chauffagiste,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PERSON: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,PERSON: ma fille,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Falcon3-7B-Instruct,LOCATION: appartement,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,LOCATION: logement,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,OTHER: bail,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,OTHER: huissier,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,PERSON: locataire,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,PERSON: ma mère,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Falcon3-7B-Instruct,MISC: ingã©nieur catã©gorie a,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,MISC: rh,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,MISC: legifrance,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,MISC: fiche de poste,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,MISC: technicien support catã©gorie b,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: collã¨gue,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: l'education nationale,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: universitã©,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: je,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: autre ministã¨re,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: agent public,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PERSON: fonctionnaire,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Falcon3-7B-Instruct,PHONE: bizzare numéros,"T'inquiÃ¨tes pas, surtout continue bien Ã  rÃ©pondre Ã  tous les numÃ©ros bizzare qui t'appellent, c"
+Falcon3-7B-Instruct,PRODUCT: santé psy étudiant,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Falcon3-7B-Instruct,sensitive_entities: product,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Falcon3-7B-Instruct,LOCATION: france,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,LOCATION: sénégal,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,PRODUCT: instagram,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,OTHER: association,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,OTHER: followers,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,PERSON: ma mère,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Falcon3-7B-Instruct,sensitive_entities: product,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Falcon3-7B-Instruct,PRODUCT: riz thaã¯,"Team 1.25 ici aussi ! Et plus je fais une grosse dose, plus je me rapproche de 1. Riz thaÃ¯"
+Falcon3-7B-Instruct,OTHER: team 1.25 ici aussi!,"Team 1.25 ici aussi ! Et plus je fais une grosse dose, plus je me rapproche de 1. Riz thaÃ¯"
+Falcon3-7B-Instruct,"OTHER: et plus je fais une grosse dose, plus je me rapproche de 1.","Team 1.25 ici aussi ! Et plus je fais une grosse dose, plus je me rapproche de 1. Riz thaÃ¯"
+Falcon3-7B-Instruct,PRODUCT: plug,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Falcon3-7B-Instruct,IDENTITY: gay,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Falcon3-7B-Instruct,ORIENTATION: hétéro,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Falcon3-7B-Instruct,GENDER: homme,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: ,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: p,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: n,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: e,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: .,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: a,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: q,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: f,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,"Text: ,","Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: c,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: d,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: j,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: m,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: u,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: v,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: t,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: b,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: i,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: l,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: â,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: g,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: ê,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: s,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: ',"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: é,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: r,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: o,"Surtout qu'ils en ont bien profitÃ© pour augmenter leurs tarifs ces bÃ¢tards, et tu ne vois ce que t"
+Mistral-7B-Instruct-v0.3,Text: ,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: p,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: e,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: .,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: :,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: a,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: f,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: ),Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: c,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: d,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: u,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: v,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: t,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: i,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: l,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: s,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: ',Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: n,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: r,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,Text: o,Il a lâ€™air content avec toi. Fais nous des updates pour nous tenir au courant :)
+Mistral-7B-Instruct-v0.3,TEXT: ,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ª,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: x,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: p,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: /,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: e,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: a,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: r,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ¥,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,"TEXT: ,","ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ˜,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: c,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ÿ,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: j,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: d,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: m,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: u,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ®,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: v,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: t,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: i,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ²,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: l,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ð,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: s,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ',"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: n,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: ã,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: …,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,TEXT: o,"ðŸ¤£ je pensais Ãªtre la seule Ã  ne pas connaÃ®tre/comprendre, jâ€™ai du lire pas mal de commentair"
+Mistral-7B-Instruct-v0.3,LOCATION: appartement,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Mistral-7B-Instruct-v0.3,PERSON: votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Mistral-7B-Instruct-v0.3,ROLE: usufruitier,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Mistral-7B-Instruct-v0.3,PRODUCT: matériel de vidéosurveillance,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,CONTRACT: contrat de location pour le matériel avec un engagement de 6 ans,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,PERSON: je,"Bonjour, 
+
+Je suis conscient de m'Ãªtre fait avoir en beautÃ©; tout conseil pour sortir de cette sit"
+Mistral-7B-Instruct-v0.3,Text: ,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: e,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: .,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: a,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: ©,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: j,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: d,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: m,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: u,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: t,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: i,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: l,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: k,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: g,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: s,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: ',Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: n,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: ã,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: r,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,Text: o,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Mistral-7B-Instruct-v0.3,ACTIVITY: sport,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,ACTIVITY: peindre,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,ACTIVITY: rando,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,ACTIVITY: danse,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,ACTIVITY: thã©ã¢tre,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,ACTIVITY: voyages,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,EMOTION: doute,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,LOCATION: europe,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,PERSON: je,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Mistral-7B-Instruct-v0.3,LOCATION: ma mère's house,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRODUCT: ventilateur brouillant,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRODUCT: chaudière à gaz,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRICE: 4550 euros,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PRICE: 5000 euros,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,PERSON: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Mistral-7B-Instruct-v0.3,OTHER: certificat,Merci pour cette rÃ©ponse. C'est justement le fait de devoir continuer Ã  bosser sans que ce ne soit
+Mistral-7B-Instruct-v0.3,PERSON: moi,Merci pour cette rÃ©ponse. C'est justement le fait de devoir continuer Ã  bosser sans que ce ne soit
+Mistral-7B-Instruct-v0.3,EMOTIONAL_STATE: peur,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,EMOTIONAL_STATE: prã©occupe,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,LOCATION: au moins 4 ans,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,LOCATION: l'ã©tã© dernier,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,LOCATION: aujourd'hui,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,PERSON: moi,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,PERSON: une fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,PERSON: ma meilleure amis fille,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Mistral-7B-Instruct-v0.3,AMOUNT: 3000 €,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Mistral-7B-Instruct-v0.3,LOCATION: le logement,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Mistral-7B-Instruct-v0.3,PERSON: ma mère,"Bonjour, 
+Pour rÃ©sumer la situation ma mÃ¨re est propriÃ©taire d'un logement et je souhaite le mett"
+Mistral-7B-Instruct-v0.3,PHONE: les numéros,"T'inquiÃ¨tes pas, surtout continue bien Ã  rÃ©pondre Ã  tous les numÃ©ros bizzare qui t'appellent, c"
+Mistral-7B-Instruct-v0.3,PRODUCT: santé psy étudiant,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Mistral-7B-Instruct-v0.3,EMAIL: santepsy.etudiant@gouv.fr,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Mistral-7B-Instruct-v0.3,TEXT: ,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: p,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: n,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: ô,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: h,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: e,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: !,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: a,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: q,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: ç,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: f,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,"TEXT: ,","t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: w,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: d,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: m,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: u,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: t,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: b,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: i,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: l,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: s,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: ',"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: é,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: r,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,TEXT: o,"t'inquiete pas tu auras bientÃ´t un portefeuille numÃ©rique europÃ©en pour tout Ã§a l'EUDI wallet, a"
+Mistral-7B-Instruct-v0.3,LOCATION: déme fontainebleau,Aller prendre une pizza Ã  DÃ©mÃ© Fontainebleau.
+Mistral-7B-Instruct-v0.3,PERSON: tu,"Je pense pas que ca soit ""si t'es en remote t'es en vacances on va pas te payer plein pot"" mais just"
+Mistral-7B-Instruct-v0.3,LOCATION: province,"Je pense pas que ca soit ""si t'es en remote t'es en vacances on va pas te payer plein pot"" mais just"
+Mistral-7B-Instruct-v0.3,LOCATION: paris,"Je pense pas que ca soit ""si t'es en remote t'es en vacances on va pas te payer plein pot"" mais just"
+Mistral-7B-Instruct-v0.3,LOCATION: france,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,LOCATION: senegal,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,PERSON: ma mère,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Mistral-7B-Instruct-v0.3,EVENT: court case,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Mistral-7B-Instruct-v0.3,EVENT: lawsuit,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Mistral-7B-Instruct-v0.3,LOCATION: bretagne,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Mistral-7B-Instruct-v0.3,LOCATION: plage,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Mistral-7B-Instruct-v0.3,PERSON: dame,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Mistral-7B-Instruct-v0.3,Text: ,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: e,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: a,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: !,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: q,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: ©,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: d,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: j,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: m,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: u,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: t,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: i,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: l,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: s,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: ',Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: n,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: ã,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Text: o,Jâ€™ai des Salomon qui mâ€™ont tenu des annÃ©es !
+Mistral-7B-Instruct-v0.3,Entities: none,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: ,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: p,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: è,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: h,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: e,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: y,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: a,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: .,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: q,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: f,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: c,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: d,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: 8,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: j,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: m,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: u,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: v,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: t,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: é,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: b,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: i,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: à,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: l,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: s,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: ',J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: n,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: 1,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: r,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: o,J'ai 118 photos Ã  recadrer et je me vois mal le faire Ã  la main mais jusqu'Ã  prÃ©sent tout les si
+Mistral-7B-Instruct-v0.3,Text: ,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: p,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: e,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: :,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: a,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: q,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: f,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: ),"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,"Text: ,","C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: c,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: j,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: d,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: m,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: u,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: v,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: t,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: é,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: b,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: i,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: à,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: l,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: s,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: ',"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: n,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: r,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: o,"C'est tout Ã  fait raccord avec ce que j'en sais, pour bosser avec plusieurs assos de santÃ© communa"
+Mistral-7B-Instruct-v0.3,Text: ,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: p,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: n,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: /,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: -,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: h,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: e,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: y,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: :,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: a,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: q,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: .,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: f,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,"Text: ,","Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,"Text: ""","Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: ’,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: c,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: j,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: d,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: m,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: u,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: v,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: t,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: i,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: l,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: ?,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: g,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: s,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: é,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: r,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,Text: o,"Salut, petite question : je suis un homme hÃ©tÃ©ro et je me demande si le fait dâ€™avoir envie dâ€™e"
+Mistral-7B-Instruct-v0.3,"PII_Entities: {'type': 'url', 'value': 'https://www.reddit.com/r/conseiljuridique/wiki/rules/'}","Avant de contribuer, merci de **bien lire** les rÃ¨gles: https://www.reddit.com/r/conseiljuridique/w"
+Mistral-7B-Instruct-v0.3,PERSON: je,"Demande lui s'il connait un bon vendeur de poÃªle Ã  crÃªpes sur Saint RÃ©my les Chevreuse, enfin je"
+Mistral-7B-Instruct-v0.3,LOCATION: saint rémy les chevreuse,"Demande lui s'il connait un bon vendeur de poÃªle Ã  crÃªpes sur Saint RÃ©my les Chevreuse, enfin je"
+Llama-3.1-8B-Instruct,LOCATION: australie,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,LOCATION: portugal,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,LANGUAGE: français,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,CURRENCY: argent,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,PERSON: moi,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,PERSON: toi,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,PERSON: tu,"Y'a pas vrmnt de but, selon moi, mais le monde regorge d'endroits et de choses Ã  faire et Ã  experi"
+Llama-3.1-8B-Instruct,LOCATION: thaïlande,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: chine,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: japon,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: vietnam,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: kenya,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: france,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: maghreb,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: mexique,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,LOCATION: inde,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: chut thai,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: áo dài,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: djellaba,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: kimono,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: kitenge,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: qipao,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: sari,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PRODUCT: huipil,"Salut, 
+
+Je rentre de ma balade dominicale et j'ai croisÃ© des chinoises portant le qipao. Tenue mag"
+Llama-3.1-8B-Instruct,PERSON: zoé sfez,Je suis une fan dâ€™Affaires sensibles comme beaucoup apparemment ! Jâ€™aime aussi beaucoup la sÃ©ri
+Llama-3.1-8B-Instruct,LOCATION: l'appartement,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,PERSON: la sœur de la femme de votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,PERSON: votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,PERSON: la femme de votre père,"PNJ ici, mais jâ€™ai fait beaucoup de recherches ces derniÃ¨res annÃ©es pour une situation personnel"
+Llama-3.1-8B-Instruct,texte: ,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: n,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: e,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: .,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: a,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: j,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: d,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: m,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: u,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: t,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: i,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: l,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: k,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: g,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: s,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: ',Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: é,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: r,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,texte: o,Stalker est un grand mot lâ€™ami. Elle a juste regardÃ© ton LinkedIn.
+Llama-3.1-8B-Instruct,LOCATION: l'europe,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: dã©ranger,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: sport,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: rando,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: crã©er,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: dã¢me,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: dã©couvrir,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: danse,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: signe,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: expã©riences,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: meuf,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: timide,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: authentique,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: thã©ã¢tre,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: partager,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: rãªves,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: dã©fis,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: bonheur,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,KEYWORD: voyages,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: moi,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: le gars dâ€™into the wild,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: je,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: les gens,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PERSON: mes amis,"Jâ€™Ã©cris parce que je traverse une petite phase de doute.
+
+Jâ€™ai accompli pas mal de choses qui m"
+Llama-3.1-8B-Instruct,PRODUCT: jeu,"C'est un bon conseil! J'ai un TDAH donc j'ai Ã©normÃ©ment de mal Ã  m'organiser, et souvent les cons"
+Llama-3.1-8B-Instruct,KEYWORD: tdah,"C'est un bon conseil! J'ai un TDAH donc j'ai Ã©normÃ©ment de mal Ã  m'organiser, et souvent les cons"
+Llama-3.1-8B-Instruct,KEYWORD: truc cool,"C'est un bon conseil! J'ai un TDAH donc j'ai Ã©normÃ©ment de mal Ã  m'organiser, et souvent les cons"
+Llama-3.1-8B-Instruct,KEYWORD: truc nul,"C'est un bon conseil! J'ai un TDAH donc j'ai Ã©normÃ©ment de mal Ã  m'organiser, et souvent les cons"
+Llama-3.1-8B-Instruct,LANGUAGE: français,"C'est un bon conseil! J'ai un TDAH donc j'ai Ã©normÃ©ment de mal Ã  m'organiser, et souvent les cons"
+Llama-3.1-8B-Instruct,LOCATION: la maison de ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PRODUCT: ventilateur,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PRODUCT: chaudière,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,ID_NUM: 1.000,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PERSON: ma mère,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,PERSON: le chef de l'entreprise de chauffage,je traverse des Ã©preuves avec les entreprises qui ne prends pas de temps pour m'informer sur le coÃ
+Llama-3.1-8B-Instruct,entities: loc,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: date,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: email,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: phone,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: facility,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: quantity,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: money,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: location,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: currency,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: law,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: language,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: gpe,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: person,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: ordinal,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: time,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: keyword,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: event,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: norp,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: work_of_art,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: organization,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: percent,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: cardinal,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: product,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,entities: id_num,"Coucou,
+Ton tÃ©moignage me touche beaucoup car je suis Ã  peu prÃ¨s dans ce mÃªme â€˜vide existentie"
+Llama-3.1-8B-Instruct,LOCATION: ville,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PRODUCT: pizza,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PERSON: on,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PERSON: qu'est-ce qui t'amène là,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PERSON: pierre louis,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PERSON: je,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,PERSON: tu,"Je me suis retrouvÃ©e dans une chambre mixte de 8 pendant 5 jours
+
+DÃ¨s qu'on croisait quelqu'un dan"
+Llama-3.1-8B-Instruct,LANGUAGE: français,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: septembre,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: l'été dernier,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: au moins 4 ans,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,OTHER: fréquentations féminine,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,OTHER: repproches,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,OTHER: allusions,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,OTHER: pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,OTHER: amis,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,LOCATION: france,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,LANGUAGE: franã§ais,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,ORGANIZATION: universitã,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,ORGANIZATION: ministã¨re,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,TITLE: agent public,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,TITLE: fournisseur,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,PERSON: agent public,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,PERSON: fournisseur,"Je suis agent public, un fonctionnaire. Je suis de l'Education Nationale (universitÃ©) et je suis Ã "
+Llama-3.1-8B-Instruct,LOCATION: l'avenir,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Llama-3.1-8B-Instruct,PRODUCT: santãƒâƒ psy ãƒâƒtudiant,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Llama-3.1-8B-Instruct,PERSON: toi,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Llama-3.1-8B-Instruct,PERSON: tu,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Llama-3.1-8B-Instruct,PERSON: toi-mãªme,"Prends le temps de reconnaÃ®tre que chaque vie suit son propre rythme. Tes dÃ©sirs sont lÃ©gitimes, "
+Llama-3.1-8B-Instruct,PRODUCT: camomille,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,PRODUCT: mã‰latonine,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,PERSON: mã¨decin traitant,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,PERSON: mã¨decin du sommeil,"MÃªme cas, Ã§a pourri la vie.
+
+1) MÃ©decin du sommeil (avec prise de sang, test apnÃ©e, autre, etc)
+"
+Llama-3.1-8B-Instruct,LOCATION: france,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,LOCATION: senegal,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,KEYWORD: tourisme humanitaire,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,KEYWORD: embrigadement sectaire,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,KEYWORD: derive sectaire,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,KEYWORD: sdf,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,PERSON: moi,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,PERSON: toi,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,PERSON: ta mère,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,LANGUAGE: français,"Desolee d'avance pour l'absence d'accents, je suis sur un clavier QWERTY.
+
+>mÃªme simplement aller s"
+Llama-3.1-8B-Instruct,LOCATION: la plage,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,LOCATION: bretagne,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,PERSON: le maire,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,PERSON: la dame,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,PERSON: la gã©rante du haras,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,PERSON: le cavalier,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,ORGANIZATION: le haras,PNJ mais j'ai vÃ©cu un cas de figure Ã  peu prÃ¨s similaire sauf que c'Ã©tait pas une voiture mais u
+Llama-3.1-8B-Instruct,LOCATION: lieux,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PRODUCT: internet,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PRODUCT: edf,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PRODUCT: assurance habitation,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,DATE: 8 octobre,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,DATE: 8,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PHONE: tel,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: ton,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: moi,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: lui,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: je,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: tu,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,PERSON: ton agence,"Avant tout, partir avant le 8 aucun soucis MAIS tu seras redevable du loyer aprÃ¨s (voir point sur l"
+Llama-3.1-8B-Instruct,LANGUAGE: franã§ais,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: septembre,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: au moins 4 ans,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,DATE: l'ãtã  derniã¨re,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: ma meilleure amis,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: ma meilleure pote,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,PERSON: elle,"
+
+J'ai une meilleure amis fille depuis au moins 4 ans et l'Ã©tÃ© dernier je me suis mis en couple av"
+Llama-3.1-8B-Instruct,URL: https://www.reddit.com/r/conseiljuridique,"Avant de contribuer, merci de **bien lire** les rÃ¨gles: https://www.reddit.com/r/conseiljuridique/w"
+Llama-3.1-8B-Instruct,PERSON: la modération,"Avant de contribuer, merci de **bien lire** les rÃ¨gles: https://www.reddit.com/r/conseiljuridique/w"
+Llama-3.1-8B-Instruct,PERSON: vous,"Avant de contribuer, merci de **bien lire** les rÃ¨gles: https://www.reddit.com/r/conseiljuridique/w"
+Llama-3.1-8B-Instruct,PERSON: les modérateurs,"Avant de contribuer, merci de **bien lire** les rÃ¨gles: https://www.reddit.com/r/conseiljuridique/w"

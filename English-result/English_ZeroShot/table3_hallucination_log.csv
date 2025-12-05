@@ -1,0 +1,15 @@
+Model Name,Hallucinated Entity,Original Text Snippet
+Falcon3-7B-Instruct,SOCIAL_MEDIA: facebook,Iâ€™m going to Tennessee for a friendâ€™s wedding 
+Falcon3-7B-Instruct,LOCATION: miami florida,Iâ€™m going to Tennessee for a friendâ€™s wedding 
+Falcon3-7B-Instruct,PERSON: friend,Iâ€™m going to Tennessee for a friendâ€™s wedding 
+Mistral-7B-Instruct-v0.3,PHONE: 416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
+Mistral-7B-Instruct-v0.3,PHONE: not explicitly mentioned,Hello Doom Guy.. or as i see on my information she
+Mistral-7B-Instruct-v0.3,PHONE: +[688],Today i have two different number calling me but h
+Mistral-7B-Instruct-v0.3,PHONE: 1 (902) 404-9234,1+ (902) 404-9234 Called me sir so I corrected him
+Mistral-7B-Instruct-v0.3,PERSON: i,1+ (902) 404-9234 Called me sir so I corrected him
+Mistral-7B-Instruct-v0.3,PERSON: you,+55 17 991277071 he is sending my phone to others 
+Llama-3.1-8B-Instruct,PHONE: *416-477-3609,"6136899226 Scammer
+
+A Sam Davis called me. Said he"
