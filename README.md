@@ -1,4 +1,5 @@
-**Multilingual PII Detection in Noisy Social Media via LLaMA 3.1 & QLoRA**
+Multilingual PII Detection in Noisy Social Media via LLaMA 3.1 & QLoRA
+
 📌 Research Abstract
 
 This project addresses the critical challenge of detecting Personally Identifiable Information (PII) in unstructured, multilingual social media text (English, French, Spanish). Unlike formal documents, social media comments contain slang, emojis, and encoding artifacts (e.g., Ã© mojibake) that cause traditional Zero-Shot LLM approaches to fail.
@@ -115,11 +116,11 @@ cd llama3-multilingual-pii-redteam
 pip install torch transformers peft datasets bitsandbytes trl accelerate pandas
 
 
-2. Run Benchmarks (Reproduce Phase 3)
+2. Run Benchmarks (Reproduce Phase 1)
 
-To reproduce the validation on the fine-tuned model across all three languages:
+To reproduce the prompting benchmarks on the test set:
 
-python benchmark_finetuned_multilingual.py
+python Spanish-python-file/run_spanish_master_suite.py
 
 
 3. Train the Model (Reproduce Phase 2)
