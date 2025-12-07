@@ -26,25 +26,19 @@ Fine-tuning proved mandatory for non-English languages. While Prompt Engineering
 ## 🛠️ Methodology
 
 ### 1. Data Preparation: "The Union Strategy"
-
 Social media datasets often suffer from fragmented labeling. We implemented a robust **Union Strategy** to construct ground truth:
-
 * **Input:** Raw text (including noise and encoding errors).
 * **Labels:** We dynamically merged `PII_DETECTION` columns (Phones, Emails) with `NER_DETECTION` columns (Names, Locations) to create a comprehensive "Master Truth."
 * **Split:** 80% Training / 10% Validation / 10% Testing (Held-out).
 
 ### 2. Benchmarking (Phase 1)
-
 We evaluated off-the-shelf performance using three strategies:
-
 * **Zero-Shot:** Baseline capabilities. *Result: High hallucination rates (up to 30%).*
 * **One-Shot:** Grounding via single example. *Result: Fixed JSON formatting but failed semantic distinction.*
 * **5-Shot (Few-Shot):** Contextual learning. *Result: Worked for Spanish/English but caused Negative Transfer in French.*
 
 ### 3. Fine-Tuning (Phase 2)
-
 We fine-tuned **LLaMA 3.1 8B Instruct** using QLoRA:
-
 * **Quantization:** 4-bit NF4 (to fit on consumer GPUs).
 * **Adapters:** LoRA Rank=16, Alpha=16.
 * **Data:** ~1,200 rows of mixed English, Spanish, and French instructions (`master_train.jsonl`).
@@ -68,51 +62,53 @@ We fine-tuned **LLaMA 3.1 8B Instruct** using QLoRA:
 ├── FINAL_CONSOLIDATED_REPORT-*.csv     # Summary performance tables
 └── README.md
 
-
-
-💻 Installation & Usage
+Installation & Usage
 1. Environment Setup
 Bash
+
 # Clone repository
-  git clone [https://github.com/Jemskc/llama3-multilingual-pii-redteam.git](https://github.com/Jemskc/llama3-multilingual-pii-redteam.git)
-  cd llama3-multilingual-pii-redteam
+git clone [https://github.com/Jemskc/llama3-multilingual-pii-redteam.git](https://github.com/Jemskc/llama3-multilingual-pii-redteam.git)
+cd llama3-multilingual-pii-redteam
 
 # Install dependencies
-  pip install torch transformers peft datasets bitsandbytes trl accelerate pandas
+pip install torch transformers peft datasets bitsandbytes trl accelerate pandas
 2. Run Benchmarks (Reproduce Phase 1)
 To reproduce the prompting benchmarks (e.g., for Spanish), navigate to the specific language folder and run the master suite:
-Bash
-  python Spanish-python-file/run_spanish_master_suite.py
 
+Bash
+
+python Spanish-python-file/run_spanish_master_suite.py
 3. Train the Model (Reproduce Phase 2)
 To retrain the model using the prepared dataset (master_train.jsonl):
-Bash
-  python train_qlora_smart.py
 
+Bash
+
+python train_qlora_smart.py
 4. Evaluate Fine-Tuned Model (Reproduce Phase 3)
 To run the final validation on the held-out test sets (_val.csv files) using the trained adapter:
-Bash
-  python benchmark_finetuned_multilingual.py
 
+Bash
+
+python benchmark_finetuned_multilingual.py
 5. Run Inference (Code Snippet)
 You can load the trained adapter from the Llama-3.1-8B-PII-Multilingual-Best folder:
+
 Python
-  from peft import PeftModel
-  from transformers import AutoTokenizer, AutoModelForCausalLM
 
-  # 1. Load Base Model
-  base = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-8B-Instruct", device_map="auto")
+from peft import PeftModel
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-  # 2. Load Adapter from local folder
-  model = PeftModel.from_pretrained(base, "Llama-3.1-8B-PII-Multilingual-Best")
+# 1. Load Base Model
+base = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-8B-Instruct", device_map="auto")
 
-  # 3. Tokenizer
-  tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B-Instruct")
+# 2. Load Adapter from local folder
+model = PeftModel.from_pretrained(base, "Llama-3.1-8B-PII-Multilingual-Best")
 
-  # 4. Generate
-  text = "Contactez-moi au 06 12 34 56 78."
-  # ... (Apply chat template and generate)
+# 3. Tokenizer
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B-Instruct")
 
+# 4. Generate
+text = "Contactez-moi au 06 12 34 56 78."
+# ... (Apply chat template and generate)
 🛡️ Ethical Considerations
 This project is designed for Red Teaming and Data Loss Prevention (DLP). The datasets used are anonymized social media comments. The goal is to improve the safety of automated systems by detecting sensitive data leakage in noisy, informal communication channels.
-
