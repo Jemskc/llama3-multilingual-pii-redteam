@@ -74,4 +74,13 @@ cd llama3-multilingual-pii-redteam
 
 # Install dependencies
 pip install torch transformers peft datasets bitsandbytes trl accelerate pandas
+```
+
+### 2. Run Benchmarks (Reproduce Phase 1)
+To reproduce the prompting benchmarks (e.g., for Spanish), navigate to the specific language folder and run the master suite:
+
+```bash
+python Spanish-python-file/run_spanish_master_suite.py
+
+
 
