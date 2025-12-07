@@ -83,4 +83,8 @@ To reproduce the prompting benchmarks (e.g., for Spanish), navigate to the speci
 python Spanish-python-file/run_spanish_master_suite.py
 
 
+**3. Train the Model (Reproduce Phase 2)**
+To retrain the model using the prepared dataset (master_train.jsonl):
 
+```Bash
+python train_qlora_smart.py
